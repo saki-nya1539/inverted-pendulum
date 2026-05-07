@@ -1,0 +1,9 @@
+# data/models に .gitkeep を作成
+echo $null > data/models/.gitkeep
+
+# results/plots に .gitkeep を作成
+echo $null > results/plots/.gitkeep
+
+# 確認
+dir data/models/
+dir results/plots/

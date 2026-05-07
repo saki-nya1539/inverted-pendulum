@@ -1,0 +1,21 @@
+# Trained models
+data/models/*.pkl
+data/models/*.pth
+
+# Training results
+results/plots/*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
