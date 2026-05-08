@@ -1,9 +1,9 @@
 # Trained models
-data/models/*.pkl
-data/models/*.pth
+# data/models/*.pkl
+# data/models/*.pth
 
 # Training results
-results/plots/*.png
+# results/plots/*.png
 
 # Python cache
 __pycache__/
